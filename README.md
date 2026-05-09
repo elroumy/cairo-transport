@@ -1,5 +1,5 @@
 # Cairo Smart Transportation System
-### Abdelrahman Mahmoud · CSE112 — Design and Analysis of Algorithms · Alamein International University
+### khaled mohamed elroumy · CSE112 — Design and Analysis of Algorithms · Alamein International University
 
 A complete transportation management system for Greater Cairo implementing five core algorithms, ML-based traffic prediction, an interactive PyQt5 GUI, and a deployable web visualizer.
 
